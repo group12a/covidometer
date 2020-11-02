@@ -7,7 +7,7 @@ import pyttsx3
 import speech_recognition as sr
 class ml:
     def ab(self):
-        data = pd.read_csv("C:/Users/abcd/Desktop/data visualization/world.csv")
+        data = pd.read_csv(r'https://raw.githubusercontent.com/group12a/covidometer/main/world.csv')
         data = data[['days','world']]
         print('_'*40);print('\t\tHead');print('_'*40)
         print(data.head())
