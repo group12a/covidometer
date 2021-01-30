@@ -1,7 +1,7 @@
 # covidometer
 
 This is a project which gives its emphasis on the very current scenerio of the world.This project gives the idea of the current scenerio 
-of the Global Pandemic called Covis-19 hence naming the project as Covidometer.
+of the Global Pandemic called Covid-19 or Coronavirus hence naming the project as Covidometer.
 
 This project is divided in many sub parts,firstly file named main that showcases the details the project implanted with speak module giving
 a brief description of the project along with the details of Covid-19 cases,where it presents the number of total cases,
