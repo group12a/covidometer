@@ -14,5 +14,7 @@ This project contains a file named bar_chart_run which showcases a colourful bar
 
 There is a file named ML which is actually predicting the number of covid cases where it is taking the number of days from the user till
 when they want to see the estimated changes of Covid cases.
+
+There is a file named X-ray which demonstrate the results qualitatively is a part of CNN (Convolution neural network), building a database of COVID-19 cases with chest X-ray or CT images of Covid patients and normal patients and then compare them , the purpose of these visualizations are to demonstrate a graph to show the Covid effected peoples.
  
  
